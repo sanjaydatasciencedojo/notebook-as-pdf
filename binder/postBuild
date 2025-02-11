@@ -3,3 +3,5 @@
 set -euo pipefail
 
 pyppeteer-install
+
+!tlmgr install lmodern
