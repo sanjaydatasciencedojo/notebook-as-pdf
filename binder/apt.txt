@@ -8,3 +8,4 @@ libatk-bridge2.0-0
 libgtk-3-0
 libnss3
 libxss1
+pandoc
